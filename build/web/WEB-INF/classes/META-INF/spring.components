@@ -1,0 +1,10 @@
+ma.gestionfiliere.ensat.config.WebMvcConfig=org.springframework.stereotype.Component
+ma.gestionfiliere.ensat.controller.EtudiantController=org.springframework.stereotype.Component
+ma.gestionfiliere.ensat.controller.FiliereController=org.springframework.stereotype.Component
+ma.gestionfiliere.ensat.controller.UserController=org.springframework.stereotype.Component
+ma.gestionfiliere.ensat.dao.EtudiantDAO=org.springframework.stereotype.Component
+ma.gestionfiliere.ensat.dao.FiliereDAO=org.springframework.stereotype.Component
+ma.gestionfiliere.ensat.dao.UserDAO=org.springframework.stereotype.Component
+ma.gestionfiliere.ensat.service.EtudiantService=org.springframework.stereotype.Component
+ma.gestionfiliere.ensat.service.FiliereService=org.springframework.stereotype.Component
+ma.gestionfiliere.ensat.service.UserService=org.springframework.stereotype.Component
